@@ -1,3 +1,5 @@
+<a href="https://colab.research.google.com/github.com/c1t1zen1/Zonos/blob/main/Zyphra_Zonos_v0_1.ipynb)"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" width="200px"/></a>
+
 # Zonos-v0.1
 
 <div align="center">
