@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/github/c1t1zen1/Zonos/blob/main/Zyphra_Zonos_v0_1_gradio.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" width="200px"/></a> <- Gradio with access to all settings. 
+<a href="https://colab.research.google.com/github/c1t1zen1/Zonos/blob/main/Zyphra_Zonos_v0_1_gradio.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" width="200px"/></a> <- Latest Colab notebook with Gradio and access to all settings. 
 
 # Zonos-v0.1
 
